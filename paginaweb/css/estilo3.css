@@ -1,0 +1,15 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing:border-box; 
+       background-color: rgb(105, 81, 81);
+}
+.text{
+    width: 35%;
+    font-size: 54px;
+}
+p{
+    background-color: brown;
+    color: white;
+    font-size: 64px;
+}

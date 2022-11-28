@@ -1,0 +1,14 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing:border-box; 
+       background-color: rgb(19, 134, 115);
+}h2{
+    font-size: 44px;
+    color: black;
+  
+    
+}
+p{
+    font-size: 17px;
+    color: white;
